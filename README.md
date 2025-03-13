@@ -4,7 +4,7 @@ Module 12 NoSQL Challenge
 All of work is in the starter  code folder.
 
 The assignment contains three parts:
-  1. Databasea and Jupyter Notebook Set Up
+  1. Database and Jupyter Notebook Set Up
   2. Update the Database
   3. Exploratory Analysis
 
